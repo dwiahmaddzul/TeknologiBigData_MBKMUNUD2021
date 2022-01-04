@@ -1,0 +1,969 @@
+\xF0\x9F\x80\x84,mahjong merah
+\xF0\x9F\x83\x8F,kartu joker hitam
+\xF0\x9F\x85\xB0,golongan darah a
+\xF0\x9F\x85\xB1,golongan darah b
+\xF0\x9F\x85\xBE,golongan darah o
+\xF0\x9F\x86\x91,tombol CL
+\xF0\x9F\x86\x92,tombol COOL
+\xF0\x9F\x86\x93,tombol FREE
+\xF0\x9F\x86\x94,tombol ID
+\xF0\x9F\x86\x95,tombol NEW
+\xF0\x9F\x86\x96,tombol NG
+\xF0\x9F\x86\x97,tombol OK
+\xF0\x9F\x86\x98,tombol SOS
+\xF0\x9F\x86\x99,tombol UP!
+\xF0\x9F\x87\xA7,daerah indikator simbol surat b
+\xF0\x9F\x87\xA8,daerah indikator simbol surat c
+\xF0\x9F\x87\xA9,daerah indikator simbol surat d
+\xF0\x9F\x87\xAA,daerah indikator simbol surat e
+\xF0\x9F\x87\xAB,daerah indikator simbol surat f
+\xF0\x9F\x87\xAC,daerah indikator simbol surat g
+\xF0\x9F\x87\xAD,daerah indikator simbol surat h
+\xF0\x9F\x87\xAE,daerah indikator simbol surat i
+\xF0\x9F\x87\xAF,daerah indikator simbol surat j
+\xF0\x9F\x87\xB0,daerah indikator simbol surat k
+\xF0\x9F\x87\xB1,daerah indikator simbol surat l
+\xF0\x9F\x87\xB2,daerah indikator simbol surat m
+\xF0\x9F\x87\xB3,daerah indikator simbol surat n
+\xF0\x9F\x87\xB4,daerah indikator simbol surat o
+\xF0\x9F\x87\xB5,daerah indikator simbol surat p
+\xF0\x9F\x87\xB7,daerah indikator simbol surat r
+\xF0\x9F\x87\xB8,daerah indikator simbol surat s
+\xF0\x9F\x87\xB9,daerah indikator simbol surat t
+\xF0\x9F\x87\xBA,daerah indikator simbol surat u
+\xF0\x9F\x87\xBC,daerah indikator simbol surat w
+\xF0\x9F\x88\x82,biaya layanan
+\xF0\x9F\x88\xB9,potongan harga
+\xF0\x9F\x89\x90,tawar-menawar
+\xF0\x9F\x8C\x80,topan
+\xF0\x9F\x8C\x81,berkabut
+\xF0\x9F\x8C\x82,payung tertutup 
+\xF0\x9F\x8C\x83,malam dengan bintang
+\xF0\x9F\x8C\x84,matahari terbit di atas gunung
+\xF0\x9F\x8C\x85,matahari terbit
+\xF0\x9F\x8C\x86,panorama kota di sore hari
+\xF0\x9F\x8C\x87,panorama matahari terbenam di kota
+\xF0\x9F\x8C\x88,pelangi
+\xF0\x9F\x8C\x89,jembatan di malam hari
+\xF0\x9F\x8C\x8A,gelombang air
+\xF0\x9F\x8C\x8B,gunung berapi
+\xF0\x9F\x8C\x8C,bima sakti
+\xF0\x9F\x8C\x8D,bumi globe eropa-afrika
+\xF0\x9F\x8C\x8E,bumi globe amerika
+\xF0\x9F\x8C\x8F,bumi globe asia-australia
+\xF0\x9F\x8C\x90,globe dengan garis meridian
+\xF0\x9F\x8C\x91,bulan baru
+\xF0\x9F\x8C\x92,bulan sabit awal
+\xF0\x9F\x8C\x93,bulan kuartal awal
+\xF0\x9F\x8C\x94,bulan cembung awal
+\xF0\x9F\x8C\x95,lengkap moon simbol
+\xF0\x9F\x8C\x96,bulan purnama
+\xF0\x9F\x8C\x97,bulan kuartal akhir
+\xF0\x9F\x8C\x98,bulan sabit akhir
+\xF0\x9F\x8C\x99,bulan sabit
+\xF0\x9F\x8C\x9A,bulan baru dengan wajah
+\xF0\x9F\x8C\x9B,bulan kuartal awal dengan wajah
+\xF0\x9F\x8C\x9C,bulan kuartal akhir dengan wajah
+\xF0\x9F\x8C\x9D,bulan purnama dengan wajah
+\xF0\x9F\x8C\x9E,matahari dengan wajah
+\xF0\x9F\x8C\x9F,bintang bersinar
+\xF0\x9F\x8C\xA0,bintang jatuh
+\xF0\x9F\x8C\xB0,kastanye
+\xF0\x9F\x8C\xB1,bibit
+\xF0\x9F\x8C\xB2,pohon cemara
+\xF0\x9F\x8C\xB3,pohon meranggas
+\xF0\x9F\x8C\xB4,pohon palem
+\xF0\x9F\x8C\xB5,kaktus
+\xF0\x9F\x8C\xB7,bunga tulip
+\xF0\x9F\x8C\xB8,bunga sakura
+\xF0\x9F\x8C\xB9,bunga mawar
+\xF0\x9F\x8C\xBA,bunga sepatu
+\xF0\x9F\x8C\xBB,bunga matahari
+\xF0\x9F\x8C\xBC,mekar
+\xF0\x9F\x8C\xBD,bonggol jagung
+\xF0\x9F\x8C\xBE,padi
+\xF0\x9F\x8C\xBF,herba
+\xF0\x9F\x8D\x80,daun semanggi
+\xF0\x9F\x8D\x81,daun maple
+\xF0\x9F\x8D\x82,daun jatuh
+\xF0\x9F\x8D\x83,daun terbang tertiup angin
+\xF0\x9F\x8D\x84,jamur
+\xF0\x9F\x8D\x85,tomat
+\xF0\x9F\x8D\x86,terong
+\xF0\x9F\x8D\x87,anggur
+\xF0\x9F\x8D\x88,melon
+\xF0\x9F\x8D\x89,semangka
+\xF0\x9F\x8D\x8A,jeruk keprok
+\xF0\x9F\x8D\x8B,lemon
+\xF0\x9F\x8D\x8C,pisang
+\xF0\x9F\x8D\x8D,nanas
+\xF0\x9F\x8D\x8E,apel merah
+\xF0\x9F\x8D\x8F,apel hijau
+\xF0\x9F\x8D\x90,pir
+\xF0\x9F\x8D\x91,persik
+\xF0\x9F\x8D\x92,ceri
+\xF0\x9F\x8D\x93,stroberi
+\xF0\x9F\x8D\x94,roti isi daging
+\xF0\x9F\x8D\x95,sepotong pizza
+\xF0\x9F\x8D\x96,daging pada tulang
+\xF0\x9F\x8D\x97,daging paha ayam
+\xF0\x9F\x8D\x98,kerupuk beras
+\xF0\x9F\x8D\x99,kimbab segitiga
+\xF0\x9F\x8D\x9A,nasi
+\xF0\x9F\x8D\x9B,nasi kari
+\xF0\x9F\x8D\x9C,semangkuk ramen
+\xF0\x9F\x8D\x9D,spageti
+\xF0\x9F\x8D\x9E,roti
+\xF0\x9F\x8D\x9F,kentang goreng
+\xF0\x9F\x8D\xA0,ubi panggang
+\xF0\x9F\x8D\xA1,dango
+\xF0\x9F\x8D\xA2,oden
+\xF0\x9F\x8D\xA3,sushi
+\xF0\x9F\x8D\xA4,udang goreng
+\xF0\x9F\x8D\xA5,kue ikan dengan desain pusaran
+\xF0\x9F\x8D\xA6,es krim lembut
+\xF0\x9F\x8D\xA7,es serut
+\xF0\x9F\x8D\xA8,es krim
+\xF0\x9F\x8D\xA9,donat
+\xF0\x9F\x8D\xAA,kue kering
+\xF0\x9F\x8D\xAB,sebatang coklat
+\xF0\x9F\x8D\xAC,permen
+\xF0\x9F\x8D\xAD,lollipop
+\xF0\x9F\x8D\xAE,puding susu
+\xF0\x9F\x8D\xAF,wadah madu
+\xF0\x9F\x8D\xB0,potongan kue
+\xF0\x9F\x8D\xB1,kotak bento
+\xF0\x9F\x8D\xB2,panci makanan
+\xF0\x9F\x8D\xB3,memasak
+\xF0\x9F\x8D\xB4,garpu dan pisau
+\xF0\x9F\x8D\xB5,cangkir teh tanpa gagang
+\xF0\x9F\x8D\xB6,sake
+\xF0\x9F\x8D\xB7,gelas anggur
+\xF0\x9F\x8D\xB8,gelas koktail
+\xF0\x9F\x8D\xB9,minuman tropis
+\xF0\x9F\x8D\xBA,gelas bir
+\xF0\x9F\x8D\xBB,gelas bir bersulang
+\xF0\x9F\x8D\xBC,botol bayi
+\xF0\x9F\x8E\x80,pita
+\xF0\x9F\x8E\x81,kado
+\xF0\x9F\x8E\x82,kue ulang tahun
+\xF0\x9F\x8E\x83,jack-o-lantern
+\xF0\x9F\x8E\x84,pohon natal
+\xF0\x9F\x8E\x85,santa claus
+\xF0\x9F\x8E\x86,kembang api
+\xF0\x9F\x8E\x87,kembang api batang
+\xF0\x9F\x8E\x88,balon
+\xF0\x9F\x8E\x89,peletup pesta
+\xF0\x9F\x8E\x8A,bola konfeti
+\xF0\x9F\x8E\x8B,pohon tanabata
+\xF0\x9F\x8E\x8C,bendera menyilang
+\xF0\x9F\x8E\x8D,dekorasi pinus
+\xF0\x9F\x8E\x8E,boneka jepang
+\xF0\x9F\x8E\x8F,pita ikan mas
+\xF0\x9F\x8E\x90,lonceng angin
+\xF0\x9F\x8E\x91,perayaan bulan
+\xF0\x9F\x8E\x92,tas sekolah
+\xF0\x9F\x8E\x93,topi kelulusan
+\xF0\x9F\x8E\xA0,komidi putar
+\xF0\x9F\x8E\xA1,kincir ria
+\xF0\x9F\x8E\xA2,kereta luncur
+\xF0\x9F\x8E\xA3,tongkat pancing
+\xF0\x9F\x8E\xA4,mikrofon
+\xF0\x9F\x8E\xA5,kamera film
+\xF0\x9F\x8E\xA6,bioskop
+\xF0\x9F\x8E\xA7,penyuara telinga
+\xF0\x9F\x8E\xA8,palet lukis
+\xF0\x9F\x8E\xA9,topi sirkus
+\xF0\x9F\x8E\xAA,tenda sirkus
+\xF0\x9F\x8E\xAB,tiket
+\xF0\x9F\x8E\xAC,papan sutradara
+\xF0\x9F\x8E\xAD,pentas seni
+\xF0\x9F\x8E\xAE,video game
+\xF0\x9F\x8E\xAF,tepat sasaran
+\xF0\x9F\x8E\xB0,mesin judi
+\xF0\x9F\x8E\xB1,bilyar
+\xF0\x9F\x8E\xB2,dadu
+\xF0\x9F\x8E\xB3,bola guling
+\xF0\x9F\x8E\xB5,not musik
+\xF0\x9F\x8E\xB6,not musik berganda
+\xF0\x9F\x8E\xB7,saksofon
+\xF0\x9F\x8E\xB8,gitar
+\xF0\x9F\x8E\xB9,piano
+\xF0\x9F\x8E\xBA,terompet
+\xF0\x9F\x8E\xBB,biola
+\xF0\x9F\x8E\xBC,musik partirtur
+\xF0\x9F\x8E\xBD,kaos lari
+\xF0\x9F\x8E\xBE,tenis
+\xF0\x9F\x8E\xBF,ski
+\xF0\x9F\x8F\x80,bola basket
+\xF0\x9F\x8F\x81,bendera kotak-kotak
+\xF0\x9F\x8F\x82,peselancar salju
+\xF0\x9F\x8F\x83,pelari
+\xF0\x9F\x8F\x84,peselancar
+\xF0\x9F\x8F\x86,piala
+\xF0\x9F\x8F\x87,pacuan kuda
+\xF0\x9F\x8F\x88,sepak bola amerika
+\xF0\x9F\x8F\x89,sepak bola rugby
+\xF0\x9F\x8F\x8A,perenang
+\xF0\x9F\x8F\xA0,bangunan rumah
+\xF0\x9F\x8F\xA1,rumah dengan taman
+\xF0\x9F\x8F\xA2,gedung kantor
+\xF0\x9F\x8F\xA4,kantor pos
+\xF0\x9F\x8F\xA5,rumah sakit
+\xF0\x9F\x8F\xA6,bank
+\xF0\x9F\x8F\xA7,anjungan tunai mandiri
+\xF0\x9F\x8F\xA8,hotel
+\xF0\x9F\x8F\xA9,hotel cinta
+\xF0\x9F\x8F\xAA,minimarket
+\xF0\x9F\x8F\xAB,sekolah
+\xF0\x9F\x8F\xAC,toko serba ada
+\xF0\x9F\x8F\xAD,pabrik
+\xF0\x9F\x8F\xAE,lampion merah
+\xF0\x9F\x8F\xAF,kastil jepang
+\xF0\x9F\x8F\xB0,kastil eropa
+\xF0\x9F\x90\x80,tikus
+\xF0\x9F\x90\x81,tikus
+\xF0\x9F\x90\x82,lembu
+\xF0\x9F\x90\x83,kerbau
+\xF0\x9F\x90\x84,sapi
+\xF0\x9F\x90\x85,harimau
+\xF0\x9F\x90\x86,macan tutul
+\xF0\x9F\x90\x87,kelinci
+\xF0\x9F\x90\x88,kucing
+\xF0\x9F\x90\x89,naga
+\xF0\x9F\x90\x8A,buaya
+\xF0\x9F\x90\x8B,ikan paus
+\xF0\x9F\x90\x8C,siput
+\xF0\x9F\x90\x8D,ular
+\xF0\x9F\x90\x8E,kuda
+\xF0\x9F\x90\x8F,domba jantan
+\xF0\x9F\x90\x90,kambing
+\xF0\x9F\x90\x91,domba betina
+\xF0\x9F\x90\x92,monyet
+\xF0\x9F\x90\x93,ayam jantan
+\xF0\x9F\x90\x94,ayam
+\xF0\x9F\x90\x95,anjing
+\xF0\x9F\x90\x96,babi
+\xF0\x9F\x90\x97,babi hutan
+\xF0\x9F\x90\x98,gajah
+\xF0\x9F\x90\x99,gurita
+\xF0\x9F\x90\x9A,keong
+\xF0\x9F\x90\x9B,hama
+\xF0\x9F\x90\x9C,semut
+\xF0\x9F\x90\x9D,lebah madu
+\xF0\x9F\x90\x9E,kumbang
+\xF0\x9F\x90\x9F,ikan
+\xF0\x9F\x90\xA0,ikan tropis
+\xF0\x9F\x90\xA1,ikan buntal
+\xF0\x9F\x90\xA2,penyu
+\xF0\x9F\x90\xA3,ayam menetas
+\xF0\x9F\x90\xA4,anak ayam
+\xF0\x9F\x90\xA5,anak ayam tampak depan
+\xF0\x9F\x90\xA6,burung
+\xF0\x9F\x90\xA7,pinguin
+\xF0\x9F\x90\xA8,koala
+\xF0\x9F\x90\xA9,anjing pudel
+\xF0\x9F\x90\xAA,unta
+\xF0\x9F\x90\xAB,unta punuk dua
+\xF0\x9F\x90\xAC,lumba-lumba
+\xF0\x9F\x90\xAD,wajah tikus
+\xF0\x9F\x90\xAE,wajah sapi
+\xF0\x9F\x90\xAF,wajah macan
+\xF0\x9F\x90\xB0,wajah kelinci
+\xF0\x9F\x90\xB1,wajah kucing
+\xF0\x9F\x90\xB2,wajah naga
+\xF0\x9F\x90\xB3,semburan paus
+\xF0\x9F\x90\xB4,wajah kuda
+\xF0\x9F\x90\xB5,wajah monyet
+\xF0\x9F\x90\xB6,wajah anjing
+\xF0\x9F\x90\xB7,wajah babi
+\xF0\x9F\x90\xB8,wajah katak
+\xF0\x9F\x90\xB9,wajah hamster
+\xF0\x9F\x90\xBA,wajah srigala
+\xF0\x9F\x90\xBB,wajah beruang
+\xF0\x9F\x90\xBC,wajah panda 
+\xF0\x9F\x90\xBD,hidung babi
+\xF0\x9F\x90\xBE,jejak hewan
+\xF0\x9F\x91\x80,mata
+\xF0\x9F\x91\x82,telinga
+\xF0\x9F\x91\x83,hidung
+\xF0\x9F\x91\x84,mulut
+\xF0\x9F\x91\x85,lidah
+\xF0\x9F\x91\x86,menunjuk ke arah atas
+\xF0\x9F\x91\x87,menunjuk ke arah bawah
+\xF0\x9F\x91\x88,menunjuk ke arah kiri
+\xF0\x9F\x91\x89,menunjuk ke arah kanan
+\xF0\x9F\x91\x8A,tangan mengepal ke depan
+\xF0\x9F\x91\x8B,tangan melambai
+\xF0\x9F\x91\x8C,oke
+\xF0\x9F\x91\x8D,tanda jempol suka
+\xF0\x9F\x91\x8E,tanda jempol tidak suka
+\xF0\x9F\x91\x8F,tepuk tangan
+\xF0\x9F\x91\x90,tangan terbuka 
+\xF0\x9F\x91\x91,mahkota
+\xF0\x9F\x91\x92,topi wanita
+\xF0\x9F\x91\x93,kacamata
+\xF0\x9F\x91\x94,dasi
+\xF0\x9F\x91\x95,kaos
+\xF0\x9F\x91\x96,celanan jeans
+\xF0\x9F\x91\x97,gaun
+\xF0\x9F\x91\x98,kimono
+\xF0\x9F\x91\x99,bikini
+\xF0\x9F\x91\x9A,pakaian wanita
+\xF0\x9F\x91\x9B,dompet
+\xF0\x9F\x91\x9C,tas jinjing
+\xF0\x9F\x91\x9D,kantung
+\xF0\x9F\x91\x9E,sepatu pria
+\xF0\x9F\x91\x9F,sepatu olahraga
+\xF0\x9F\x91\xA0,sepatu hak tinggi
+\xF0\x9F\x91\xA1,sandal wanita
+\xF0\x9F\x91\xA2,sepatu bot wanita
+\xF0\x9F\x91\xA3,jejak kaki
+\xF0\x9F\x91\xA4,siluet foto setengah badan
+\xF0\x9F\x91\xA5,beberapa siluet foto setengah badan
+\xF0\x9F\x91\xA6,anak laki-laki
+\xF0\x9F\x91\xA7,anak perempuan
+\xF0\x9F\x91\xA8,pria
+\xF0\x9F\x91\xA9,wanita
+\xF0\x9F\x91\xAA,keluarga
+\xF0\x9F\x91\xAB,pria dan wanita bergandengan
+\xF0\x9F\x91\xAC,dua pria bergandengan
+\xF0\x9F\x91\xAD,dua wanita bergandengan
+\xF0\x9F\x91\xAE,polisi
+\xF0\x9F\x91\xAF,wanita dengan telinga kelinci
+\xF0\x9F\x91\xB0,pengantin wanita
+\xF0\x9F\x91\xB1,wanita rambut pirang
+\xF0\x9F\x91\xB2,orang dengan topi tionghoa
+\xF0\x9F\x91\xB3,orang dengan turban
+\xF0\x9F\x91\xB4,pria tua
+\xF0\x9F\x91\xB5,wanita tua
+\xF0\x9F\x91\xB6,bayi
+\xF0\x9F\x91\xB7,pekerja konstruksi
+\xF0\x9F\x91\xB8,putri
+\xF0\x9F\x91\xB9,wajah monster
+\xF0\x9F\x91\xBA,goblin
+\xF0\x9F\x91\xBB,hantu
+\xF0\x9F\x91\xBC,bayi malaikat
+\xF0\x9F\x91\xBD,alien 
+\xF0\x9F\x91\xBE,monster alien
+\xF0\x9F\x91\xBF,wajah marah dengan tanduk
+\xF0\x9F\x92\x80,tengkorak
+\xF0\x9F\x92\x81,pegawai informasi
+\xF0\x9F\x92\x82,pengawal
+\xF0\x9F\x92\x83,penari
+\xF0\x9F\x92\x84,lipstik
+\xF0\x9F\x92\x85,cat kuku
+\xF0\x9F\x92\x86,wajah dipijat
+\xF0\x9F\x92\x87,potong rambut
+\xF0\x9F\x92\x89,suntikan
+\xF0\x9F\x92\x8A,pil
+\xF0\x9F\x92\x8B,tanda cium
+\xF0\x9F\x92\x8C,surat cinta
+\xF0\x9F\x92\x8D,cincin
+\xF0\x9F\x92\x8E,batu permata
+\xF0\x9F\x92\x8F,ciuman
+\xF0\x9F\x92\x90,buket
+\xF0\x9F\x92\x91,pasangan
+\xF0\x9F\x92\x92,pernikahan
+\xF0\x9F\x92\x93,hati berdetak
+\xF0\x9F\x92\x94,patah hati
+\xF0\x9F\x92\x95,dua hati
+\xF0\x9F\x92\x96,hati berkilau
+\xF0\x9F\x92\x97,hati membesar
+\xF0\x9F\x92\x98,hati dengan panah
+\xF0\x9F\x92\x99,hati biru
+\xF0\x9F\x92\x9A,hati hijau
+\xF0\x9F\x92\x9B,hati kuning
+\xF0\x9F\x92\x9C,hati ungu
+\xF0\x9F\x92\x9D,hati dengan pita
+\xF0\x9F\x92\x9E,hati berputar
+\xF0\x9F\x92\x9F,dekorasi hati
+\xF0\x9F\x92\xA0,berlian dengan titik
+\xF0\x9F\x92\xA1,bohlam lampu
+\xF0\x9F\x92\xA2,tanda marah
+\xF0\x9F\x92\xA3,bom
+\xF0\x9F\x92\xA4,simbol tidur 
+\xF0\x9F\x92\xA5,simbol tabrakan 
+\xF0\x9F\x92\xA6,percikan keringat
+\xF0\x9F\x92\xA7,tetesan kecil
+\xF0\x9F\x92\xA8,simbol hembusan
+\xF0\x9F\x92\xA9,tumpukan kotoran
+\xF0\x9F\x92\xAA,lengan berotot
+\xF0\x9F\x92\xAB,simbol pusing
+\xF0\x9F\x92\xAC,balon teks
+\xF0\x9F\x92\xAD,balon pikiran
+\xF0\x9F\x92\xAF,simbol poin seratus 
+\xF0\x9F\x92\xB0,tas uang 
+\xF0\x9F\x92\xB2,tanda dolar
+\xF0\x9F\x92\xB3,kartu kredit
+\xF0\x9F\x92\xB4,uang kertas yen 
+\xF0\x9F\x92\xB5,uang kertas dollar
+\xF0\x9F\x92\xB6,uang kertas euro
+\xF0\x9F\x92\xB7,uang kertas pound
+\xF0\x9F\x92\xB8,uang dengan sayap
+\xF0\x9F\x92\xBA,kursi
+\xF0\x9F\x92\xBB,komputer pribadi
+\xF0\x9F\x92\xBC,tas kantor
+\xF0\x9F\x92\xBD,cakram komputer
+\xF0\x9F\x92\xBF,disk optik
+\xF0\x9F\x93\x80,dvd
+\xF0\x9F\x93\x81,map berkas
+\xF0\x9F\x93\x83,halaman tergulung
+\xF0\x9F\x93\x84,berkas
+\xF0\x9F\x93\x85,kalender
+\xF0\x9F\x93\x86,kalender sobek
+\xF0\x9F\x93\x88,bagan dengan tren naik
+\xF0\x9F\x93\x89,bagan dengan tren turun
+\xF0\x9F\x93\x8B,papan klip
+\xF0\x9F\x93\x8C,pin
+\xF0\x9F\x93\x8D,pin pentul
+\xF0\x9F\x93\x8E,klip kertas
+\xF0\x9F\x93\x90,penggaris segitiga
+\xF0\x9F\x93\x91,penanda halaman buku
+\xF0\x9F\x93\x92,buku besar
+\xF0\x9F\x93\x93,buku catatan
+\xF0\x9F\x93\x94,buku catatan bersampul
+\xF0\x9F\x93\x95,buku tertutup
+\xF0\x9F\x93\x96,buku terbuka
+\xF0\x9F\x93\x97,buku hijau
+\xF0\x9F\x93\x98,buku biru
+\xF0\x9F\x93\x99,book kuning
+\xF0\x9F\x93\x9A,buku
+\xF0\x9F\x93\x9B,lencana nama
+\xF0\x9F\x93\x9C,poster
+\xF0\x9F\x93\x9D,memo
+\xF0\x9F\x93\x9E,telepon 
+\xF0\x9F\x93\x9F,pager
+\xF0\x9F\x93\xA0,mesin fax
+\xF0\x9F\x93\xA1,antena satelit 
+\xF0\x9F\x93\xA2,pengeras suara
+\xF0\x9F\x93\xA3,megafon
+\xF0\x9F\x93\xA5,inbox baki
+\xF0\x9F\x93\xA6,paket
+\xF0\x9F\x93\xAB,kotak surat
+\xF0\x9F\x93\xAE,kotak pos
+\xF0\x9F\x93\xAF,terompet tanduk
+\xF0\x9F\x93\xB0,koran
+\xF0\x9F\x93\xB1,telepon genggam
+\xF0\x9F\x93\xB2,panggilan masuk
+\xF0\x9F\x93\xB4,ponsel tidak aktif
+\xF0\x9F\x93\xB5,dilarang menggunakan ponsel
+\xF0\x9F\x93\xB6,simbol sinyal
+\xF0\x9F\x93\xB7,kamera
+\xF0\x9F\x93\xB9,kamera video
+\xF0\x9F\x93\xBA,televisi
+\xF0\x9F\x93\xBB,radio
+\xF0\x9F\x93\xBC,kaset video
+\xF0\x9F\x94\x81,simbol ulangi
+\xF0\x9F\x94\x83,panah berputar searah jarum jam
+\xF0\x9F\x94\x84,panah berputar berlawanan arah jarum jam
+\xF0\x9F\x94\x85,simbol cahaya redup
+\xF0\x9F\x94\x86,simbol cahaya terang
+\xF0\x9F\x94\x87,simbol suara mati
+\xF0\x9F\x94\x88,simbol suara diam
+\xF0\x9F\x94\x89,simbol suara kecil
+\xF0\x9F\x94\x8A,simbol suara kencang
+\xF0\x9F\x94\x8B,baterai
+\xF0\x9F\x94\x8C,steker listrik
+\xF0\x9F\x94\x8E,kaca pembesar
+\xF0\x9F\x94\x90,gembok dan kunci
+\xF0\x9F\x94\x91,kunci
+\xF0\x9F\x94\x92,gembok terkunci
+\xF0\x9F\x94\x93,gembok terbuka
+\xF0\x9F\x94\x94,lonceng
+\xF0\x9F\x94\x95,lonceng mati
+\xF0\x9F\x94\x96,penanda buku
+\xF0\x9F\x94\x98,tombol radio
+\xF0\x9F\x94\x99,tanda panah BACK
+\xF0\x9F\x94\x9A,tanda panah END
+\xF0\x9F\x94\x9B,tanda panah ON!
+\xF0\x9F\x94\x9C,tanda panah SOON
+\xF0\x9F\x94\x9D,tanda panah TOP
+\xF0\x9F\x94\x9E,di bawah 18 tahun dilarang
+\xF0\x9F\x94\x9F,tombol 10
+\xF0\x9F\x94\xA3,masukkan simbol
+\xF0\x9F\x94\xA5,api
+\xF0\x9F\x94\xA6,senter
+\xF0\x9F\x94\xA7,kunci inggris
+\xF0\x9F\x94\xA8,palu
+\xF0\x9F\x94\xA9,mur baut
+\xF0\x9F\x94\xAA,pisau
+\xF0\x9F\x94\xAB,pistol
+\xF0\x9F\x94\xAC,mikroskop
+\xF0\x9F\x94\xAD,teleskop
+\xF0\x9F\x94\xAE,bola kristal
+\xF0\x9F\x94\xAF,bintang sudut enam bertitik
+\xF0\x9F\x94\xB0,simbol jepang untuk pemula
+\xF0\x9F\x94\xB1,lencana trisula
+\xF0\x9F\x94\xB2,tombol kotak hitam
+\xF0\x9F\x94\xB3,tombol kotak putih
+\xF0\x9F\x94\xB4,lingkaran merah besar
+\xF0\x9F\x94\xB5,lingkaran biru besar
+\xF0\x9F\x94\xB6,wajik oren besar
+\xF0\x9F\x94\xB7,wajik biru besar
+\xF0\x9F\x94\xB8,wajik oren kecil
+\xF0\x9F\x94\xB9,wajik biru kecil
+\xF0\x9F\x94\xBA,segitiga merah mengarah ke atas
+\xF0\x9F\x94\xBB,segitiga merah mengarah ke bawah
+\xF0\x9F\x94\xBC,segitiga merah kecil mengarah ke atas
+\xF0\x9F\x95\x90,jam satu
+\xF0\x9F\x95\x91,jam dua
+\xF0\x9F\x95\x92,jam tiga
+\xF0\x9F\x95\x94,jam lima
+\xF0\x9F\x95\x95,jam enam
+\xF0\x9F\x95\x9B,jam dua belas
+\xF0\x9F\x95\x9D,jam setengah dua
+\xF0\x9F\x95\xA5,jam setengah sepuluh
+\xF0\x9F\x97\xBB,gunung fuji
+\xF0\x9F\x97\xBC,menara tokyo
+\xF0\x9F\x97\xBD,patung liberty
+\xF0\x9F\x97\xBE,siluet japan
+\xF0\x9F\x97\xBF,moyai
+\xF0\x9F\x98\x80,wajah gembira
+\xF0\x9F\x98\x81,wajah gembira dengan mata bahagia
+\xF0\x9F\x98\x82,wajah tertawa sampai menangis
+\xF0\x9F\x98\x83,wajah tersenyum lebar
+\xF0\x9F\x98\x84,wajah tersenyum dengan mata tertutup
+\xF0\x9F\x98\x85,wajah tersenyum dan berkeringat
+\xF0\x9F\x98\x86,wajah tersenyum lebar dan memejamkan mata
+\xF0\x9F\x98\x87,wajah malaikat
+\xF0\x9F\x98\x88,wajah iblis
+\xF0\x9F\x98\x89,wajah tersenyum dengan mata berkedip
+\xF0\x9F\x98\x8A,wajah tersenyum dengan mata bahagia
+\xF0\x9F\x98\x8B,wajah menikmati makanan lezat
+\xF0\x9F\x98\x8C,wajah lega
+\xF0\x9F\x98\x8D,wajah tersenyum dengan mata hati
+\xF0\x9F\x98\x8E,wajah tersenyum dengan kacamata
+\xF0\x9F\x98\x8F,wajah tersenyum sombong
+\xF0\x9F\x98\x90,wajah netral
+\xF0\x9F\x98\x91,tanpa ekspresi
+\xF0\x9F\x98\x92,wajah tidak senang
+\xF0\x9F\x98\x93,wajah berkeringat
+\xF0\x9F\x98\x94,wajah merenung
+\xF0\x9F\x98\x95,wajah bingung
+\xF0\x9F\x98\x96,wajah stress
+\xF0\x9F\x98\x97,wajah mencium
+\xF0\x9F\x98\x98,wajah memberikan ciuman jauh
+\xF0\x9F\x98\x99,wajah mencium dengan mata tersenyum
+\xF0\x9F\x98\x9A,wajah memberikan ciuman dengan mata tertutup
+\xF0\x9F\x98\x9B,wajah menjulurkan lidah
+\xF0\x9F\x98\x9C,wajah menjulurkan lidah dan mengedipkan mata
+\xF0\x9F\x98\x9D,wajah menjulurkan lidah dan menutup mata
+\xF0\x9F\x98\x9E,wajah kecewa
+\xF0\x9F\x98\x9F,wajah khawatir
+\xF0\x9F\x98\xA0,wajah marah
+\xF0\x9F\x98\xA1,wajah cemberut 
+\xF0\x9F\x98\xA2,wajah menangis 
+\xF0\x9F\x98\xA3,wajah frustasi
+\xF0\x9F\x98\xA4,wajah bersungguh-sungguh
+\xF0\x9F\x98\xA5,wajah kecewa namun lega
+\xF0\x9F\x98\xA6,wajah cemberut dengan mulut terbuka
+\xF0\x9F\x98\xA7,wajah menderita
+\xF0\x9F\x98\xA8,wajah ketakutan
+\xF0\x9F\x98\xA9,wajah lelah
+\xF0\x9F\x98\xAA,wajah mengantuk
+\xF0\x9F\x98\xAB,wajah lelah
+\xF0\x9F\x98\xAC,wajah meringis
+\xF0\x9F\x98\xAD,wajah menangis keras
+\xF0\x9F\x98\xAE,wajah dengan mulut terbuka
+\xF0\x9F\x98\xAF,wajah hening
+\xF0\x9F\x98\xB0,wajah gelisah dan berkeringat
+\xF0\x9F\x98\xB1,wajah sangat ketakutan
+\xF0\x9F\x98\xB2,wajah heran
+\xF0\x9F\x98\xB3,wajah tersipu
+\xF0\x9F\x98\xB4,wajah tidur
+\xF0\x9F\x98\xB5,wajah pusing 
+\xF0\x9F\x98\xB6,wajah tanpa mulut
+\xF0\x9F\x98\xB7,wajah dengan masker medis
+\xF0\x9F\x98\xB8,kucing tersenyum dengan mulut terbuka
+\xF0\x9F\x98\xB9,kucing tertawa sampai menangis
+\xF0\x9F\x98\xBA,kucing tersenyum dengan mulut terbuka
+\xF0\x9F\x98\xBB,kucing tersenyum dengan mata hati
+\xF0\x9F\x98\xBC,kucing tersenyum sombong
+\xF0\x9F\x98\xBD,kucing mencium dengan mata tertutup
+\xF0\x9F\x98\xBE,kucing marah
+\xF0\x9F\x98\xBF,kucing menangis
+\xF0\x9F\x99\x80,kucing lelah
+\xF0\x9F\x99\x85,wajah dengan sikap menolak
+\xF0\x9F\x99\x86,wajah dengan sikap setuju
+\xF0\x9F\x99\x87,orang membungkuk dalam-dalam
+\xF0\x9F\x99\x88,tidak melihat
+\xF0\x9F\x99\x89,tidak mendengar
+\xF0\x9F\x99\x8A,tidak berbicara
+\xF0\x9F\x99\x8B,orang mengangkat satu tangan
+\xF0\x9F\x99\x8C,orang mengangkat dua tangan
+\xF0\x9F\x99\x8D,orang mengerutkan kening
+\xF0\x9F\x99\x8E,orang dengan wajah cemberut 
+\xF0\x9F\x99\x8F,orang dengan melipat tangan
+\xF0\x9F\x9A\x80,roket
+\xF0\x9F\x9A\x81,helikopter
+\xF0\x9F\x9A\x82,kereta uap
+\xF0\x9F\x9A\x83,gerbong kereta api
+\xF0\x9F\x9A\x84,kereta kecepatan tinggi
+\xF0\x9F\x9A\x85,kereta peluru
+\xF0\x9F\x9A\x86,kereta mendekat
+\xF0\x9F\x9A\x89,stasiun
+\xF0\x9F\x9A\x8A,trem
+\xF0\x9F\x9A\x8B,gerbong trem
+\xF0\x9F\x9A\x8C,bis
+\xF0\x9F\x9A\x8D,bis mendekat
+\xF0\x9F\x9A\x90,minibus
+\xF0\x9F\x9A\x91,ambulan
+\xF0\x9F\x9A\x92,mobil pemadam kebakaran
+\xF0\x9F\x9A\x93,mobil polisi
+\xF0\x9F\x9A\x94,mobil polisi mendekat
+\xF0\x9F\x9A\x95,taksi
+\xF0\x9F\x9A\x96,taksi mendekat
+\xF0\x9F\x9A\x97,mobil
+\xF0\x9F\x9A\x98,mobil mendekat
+\xF0\x9F\x9A\x99,kendaraan rekreasi
+\xF0\x9F\x9A\x9A,truk pengiriman
+\xF0\x9F\x9A\x9B,truk lori
+\xF0\x9F\x9A\x9C,traktor
+\xF0\x9F\x9A\x9D,monorel
+\xF0\x9F\x9A\x9E,kereta gunung
+\xF0\x9F\x9A\xA0,kereta gantung
+\xF0\x9F\x9A\xA1,trem gantung
+\xF0\x9F\x9A\xA2,kapal
+\xF0\x9F\x9A\xA3,perahu dayung
+\xF0\x9F\x9A\xA4,perahu motor cepat
+\xF0\x9F\x9A\xA5,lampu lalu lintas horizontal 
+\xF0\x9F\x9A\xA6,lampu lalu lintas vertikal 
+\xF0\x9F\x9A\xA7,sirine
+\xF0\x9F\x9A\xA9,bendera segitiga
+\xF0\x9F\x9A\xAA,pintu
+\xF0\x9F\x9A\xAB,tanda dilarang masuk
+\xF0\x9F\x9A\xAC,tanda merokok
+\xF0\x9F\x9A\xAD,tanda dilarang merokok
+\xF0\x9F\x9A\xAE,tanda membuang sampah
+\xF0\x9F\x9A\xB2,sepeda
+\xF0\x9F\x9A\xB3,dilarang bersepeda
+\xF0\x9F\x9A\xB4,pengendara sepeda
+\xF0\x9F\x9A\xB5,sepeda gunung
+\xF0\x9F\x9A\xB6,pejalan kaki
+\xF0\x9F\x9A\xB9,toilet pria
+\xF0\x9F\x9A\xBA,toilet wanita
+\xF0\x9F\x9A\xBC,bayi
+\xF0\x9F\x9A\xBD,toilet
+\xF0\x9F\x9A\xBE,kakus
+\xF0\x9F\x9A\xBF,selang mandi
+\xF0\x9F\x9B\x80,bak mandi
+\xE2\x86\x83,derajat celsius
+\xE2\x86\x85,persen
+\xE2\x86\x95,panah atas bawah
+\xE2\x86\x99,south west arrow
+ \xE2\x86\xA9,leftwards arrow dengan hook
+\xE2\x86\xAA,ke sebelah kanan arrow dengan hook
+\xE2\x86\xAC,ke sebelah kanan arrow dengan loop
+\xE2\x86\xB1,ke atas panah dengan tip ke sebelah kanan
+\xE2\x86\xB3,panah ke bawah di dengan tip ke sebelah kanan
+\xE2\x86\xBE,ke atas harpoon dengan barb ke sebelah kanan
+\xE2\x86\xBF,ke atas harpoon dengan barb ke kiri
+\xE2\x86\x90,ke kiri double arrow
+\xE2\x86\x97,north east double panah
+\xE2\x86\x98,south east double panah
+\xE2\x86\xA2,ke sebelah kanan putus-putus arrow
+\xE2\x86\xA6,ke kiri putih arrow
+\xE2\x86\xA7,ke atas putih arrow
+\xE2\x86\xA8,ke sebelah kanan putih arrow
+\xE2\x86\xA9,ke bawah putih arrow
+\xE2\x8C\x83,up arrowhead
+\xE2\x8C\x93,busur
+\xE2\x8C\x98,tempat menarik sign
+\xE2\x8C\x9A,jam tangan
+\xE2\x8C\x9B,jam pasir
+,apl fungsional simbol up shoe jot
+,apl fungsional simbol star diaresis
+\xE2\x8F\xA9,hitam kanan menunjuk double triangle
+\xE2\x8F\xAA,hitam kiri-menunjuk double triangle
+\xE2\x8F\xAC,hitam bawah-menunjuk double triangle
+\xE2\x8F\xB0,jam alarm
+\xE2\x8F\xB3,jam pasir dengan aliran pasir
+,simbol dasi kupu-kupu
+,dilingkari latin modal surat a
+,dilingkari latin modal surat e
+,dilingkari latin modal surat f
+\xE2\x93\x81,dilingkari latin modal surat l
+\xE2\x93\x82,dilingkari latin modal surat m
+\xE2\x93\x84,dilingkari latin modal surat o
+\xE2\x93\x85,dilingkari latin modal surat p
+\xE2\x93\x88,dilingkari latin modal surat s
+\xE2\x93\x8C,dilingkari latin modal surat w
+,dilingkari latin kecil surat a
+,dilingkari latin kecil surat c
+,dilingkari latin kecil surat e
+,dilingkari latin kecil surat f
+,dilingkari latin small letter i
+,dilingkari latin kecil surat j
+,dilingkari latin kecil surat m
+,dilingkari latin kecil surat n
+,dilingkari latin kecil surat o
+,dilingkari latin kecil surat p
+,dilingkari latin kecil surat r
+,dilingkari latin kecil surat x
+,dilingkari latin kecil surat y
+,box gambar terang horizontal
+,box gambar berat horizontal
+,box gambar terang vertical
+,box gambar berat vertical
+,box gambar terang empat orang dash horizontal
+,box gambar terang empat orang dash vertical
+,box gambar terang bawah dan kanan
+,box gambar berat bawah dan kanan
+,box gambar terang bawah dan kiri
+,box gambar berat bawah dan kiri
+,box gambar berat up dan kanan
+,box gambar terang up dan kiri
+,box gambar berat up dan kiri
+,box gambar berat vertikal dan tepat
+,box gambar berat vertikal dan kiri
+,box gambar bawah cahaya dan horizontal berat
+,box gambar berat turun dan horizontal
+,box gambar berat up dan horizontal
+,box gambar terang vertical dan horizontal
+,box gambar double horizontal
+,box gambar double vertical
+,box gambar double down dan kanan
+,box gambar double down dan kiri
+,box gambar double up dan kanan
+,box gambar double up dan kiri
+,box gambar double vertikal dan tepat
+,box gambar double vertikal dan kiri
+,box gambar bawah tunggal dan horizontal double
+,box gambar bawah double dan horizontal tunggal
+,box gambar double down dan horizontal
+,box gambar double up dan horizontal
+,box gambar double vertical dan horizontal
+,box gambar terang arc bawah dan kanan
+,box gambar terang arc bawah dan kiri
+,box gambar terang arc up dan kiri
+,box gambar terang arc up dan kanan
+,box gambar terang diagonal upper hak untuk rendah kiri
+,box gambar berat up
+,upper half block
+,rendah satu kedelapan block
+,rendah satu triwulan block
+,rendah tiga perdelapan block
+,rendah half block
+,lengkap block
+,kiri half block
+,kanan half block
+,shade cahaya
+,medium shade
+,dark shade
+,hitam kotak
+,putih kotak
+\xE2\x96\xAA,hitam kecil kotak
+\xE2\x96\xAB,putih kecil kotak
+,hitam persegi panjang
+,hitam up-menunjuk triangle
+,putih up-menunjuk triangle
+,putih up-menunjuk kecil triangle
+\xE2\x96\xB6,hitam kanan menunjuk triangle
+,hitam kanan menunjuk kecil triangle
+,hitam kanan menunjuk pointer
+,hitam bawah-menunjuk triangle
+,putih bawah-menunjuk triangle
+,putih bawah-menunjuk kecil triangle
+\xE2\x97\x80,hitam kiri-menunjuk triangle
+,hitam kiri-menunjuk kecil triangle
+,hitam kiri-menunjuk pointer
+,berlian hitam
+,fisheye
+,putih lingkaran
+,tepat sasaran
+,hitam lingkaran
+,lingkaran dengan semua namun upper kiri kuadran hitam
+,upper kiri kuadran edaran arc
+,upper kanan kuadran edaran arc
+,rendah kanan kuadran edaran arc
+,rendah kiri kuadran edaran arc
+,upper setengah lingkaran
+,rendah setengah lingkaran
+,hitam bawah kanan triangle
+,hitam bawah kiri triangle
+,hitam upper kiri triangle
+\xE2\x98\x80,hitam sun dengan sinar
+\xE2\x98\x81,awan
+,payung
+,snowman
+,komet
+,bintang hitam
+,bintang putih
+,petir
+,matahari
+,ascending node
+\xE2\x98\x8E,hitam telepon
+,kotak suara
+\xE2\x98\x91,suara box dengan tarif
+\xE2\x98\x94,payung dengan hujan drops
+\xE2\x98\x95,minuman panas
+,hitam kiri menunjuk index
+,hitam menunjuk ke kanan index
+,putih menunjuk ke kiri index
+\xE2\x98\x9D,putih up menunjuk index
+,putih menunjuk ke kanan index
+,tengkorak dan tulang bersilang
+,sign radioaktif
+,lintas dari lorraine
+,star dan crescent
+,perdamaian simbol
+,yin yang
+,trigram untuk bumi
+,putih wajah cemberut
+\xE2\x98\xBA,putih tersenyum wajah
+,hitam wajah tersenyum
+,putih sun dengan sinar
+,triwulan i moon
+,terakhir triwulan moon
+,tanda wanita
+,tanda pria
+\xE2\x99\x88,aries
+\xE2\x99\x8A,gemini
+\xE2\x99\x8B,zodiak cancer
+\xE2\x99\x8C,leo
+\xE2\x99\x8D,virgo
+\xE2\x99\x8E,libra
+\xE2\x99\x8F,scorpius
+\xE2\x99\x93,pisces
+\xE2\x99\x94,putih chess raja
+\xE2\x99\x95,putih chess queen
+\xE2\x99\x99,putih chess gadai
+\xE2\x99\x9A,hitam chess raja
+\xE2\x99\x9B,hitam chess queen
+\xE2\x99\x9D,hitam chess uskup
+\xE2\x99\x9E,hitam chess knight
+\xE2\x99\xA0,hitam sekop suit
+\xE2\x99\xA1,putih hati suit
+\xE2\x99\xA2,putih diamond suit
+\xE2\x99\xA3,hitam club suit
+\xE2\x99\xA4,putih sekop suit
+\xE2\x99\xA5,hitam hati suit
+\xE2\x99\xA6,hitam diamond suit
+\xE2\x99\xA7,putih club suit
+\xE2\x99\xA8,air panas
+\xE2\x99\xA9,seperempat not
+\xE2\x99\xAA,kedelapan catatan
+\xE2\x99\xAB,berseri-seri kedelapan catatan
+\xE2\x99\xAC,berseri-seri keenam belas catatan
+\xE2\x99\xAC,musik flat sign
+\xE2\x99\xAD,musik natural sign
+\xE2\x99\xBA,daur ulang simbol untuk umum bahan
+\xE2\x99\xBB,hitam universal daur ulang simbol
+\xE2\x99\xBF,kursi roda simbol
+,die wajah-4
+\xE2\x9A\x93,jangkar
+\xE2\x9A\xA0,tanda peringatan
+\xE2\x9A\xA1,tegangan tinggi tanda
+\xE2\x9A\xAA,medium putih lingkaran
+\xE2\x9A\xAB,medium hitam lingkaran
+\xE2\x9A\xBD,sepak bola
+\xE2\x9A\xBE,baseball
+\xE2\x9B\x84,snowman tanpa snow
+\xE2\x9B\x85,sun balik cloud
+\xE2\x9B\x94,dilarang masuk
+\xE2\x9B\xAA,gereja
+\xE2\x9B\xB2,air mancur
+\xE2\x9B\xB3,bendera di lubang
+\xE2\x9B\xB5,perahu layar
+\xE2\x9B\xBA,tenda
+\xE2\x9B\xBD,pompa bahan bakar
+\xE2\x9C\x82,tanda gunting
+\xE2\x9C\x85,putih berat mark tarif
+\xE2\x9C\x86,telepon lokasi masuk
+\xE2\x9C\x88,mode pesawat
+\xE2\x9C\x89,amplop
+\xE2\x9C\x8A,dibesarkan fist
+\xE2\x9C\x8B,mengangkat tangan
+\xE2\x9C\x8C,victory tangan
+\xE2\x9C\x8D,menulis tangan
+\xE2\x9C\x8E,rendah kanan pencil
+\xE2\x9C\x8F,pensil
+\xE2\x9C\x92,hitam nib
+\xE2\x9C\x93,tanda cek
+\xE2\x9C\x94,heavy mark tarif
+\xE2\x9C\x96,simbol perkalian
+\xE2\x9C\x97,suara x
+\xE2\x9C\x98,heavy suara x
+\xE2\x9C\x9D,latin lintas
+\xE2\x9C\x9E,dibayangi putih latin lintas
+\xE2\x9C\xA1,star of david
+\xE2\x9C\xA6,hitam empat menunjuk bintang
+\xE2\x9C\xA7,putih empat menunjuk bintang
+\xE2\x9C\xA8,berkilau
+\xE2\x9C\xA9,stres dituangkan putih star
+\xE2\x9C\xAA,dilingkari putih star
+\xE2\x9C\xAB,open center hitam star
+\xE2\x9C\xAC,hitam putih center star
+\xE2\x9C\xAD,dituangkan hitam star
+\xE2\x9C\xAE,berat dituangkan hitam star
+\xE2\x9C\xAF,kincir star
+\xE2\x9C\xB0,dibayangi putih star
+\xE2\x9C\xB3,delapan asterisk spoked
+\xE2\x9C\xB4,delapan menunjuk hitam star
+\xE2\x9C\xBD,heavy teardrop-spoked asterisk
+\xE2\x9C\xBE,enam kelopak hitam dan putih florette
+\xE2\x9C\xBF,hitam florette
+\xE2\x9D\x80,putih florette
+\xE2\x9D\x81,delapan kelopak dituangkan hitam florette
+\xE2\x9D\x84,kepingan salju
+\xE2\x9D\x85,ketat trifoliate snowflake
+\xE2\x9D\x87,berkilau
+\xE2\x9D\x8A,delapan teardrop-spoked propeller asterisk
+\xE2\x9D\x8B,heavy delapan teardrop-spoked propeller asterisk
+\xE2\x9D\x8C,tanda silang
+\xE2\x9D\x8E,negatif ​​tombol lintas mark
+\xE2\x9D\x92,upper kanan dibayangi putih kotak
+\xE2\x9D\x93,hitam pertanyaan mark ornament
+\xE2\x9D\x94,putih pertanyaan mark ornament
+\xE2\x9D\x95,putih tanda seru ornament
+\xE2\x9D\x96,hitam diamond minus putih x
+\xE2\x9D\x97,berat tanda seru simbol
+\xE2\x9D\x9B,berat tunggal menjadi koma kutipan mark ornament
+\xE2\x9D\x9D,berat double menjadi koma kutipan mark ornament
+\xE2\x9D\x9E,berat double koma kutipan mark ornament
+\xE2\x9D\xA3,berat hati tanda seru ornament
+\xE2\x9D\xA4,heavy hitam hati
+\xE2\x9D\xA5,diputar berat hitam hati bullet
+\xE2\x9E\x94,heavy wide berkepala ke sebelah kanan panah
+\xE2\x9E\x95,heavy plus sign
+\xE2\x9E\x96,heavy minus sign
+\xE2\x9E\x97,heavy divisi sign
+\xE2\x9E\x9B,drafting point ke sebelah kanan panah
+\xE2\x9E\x9C,heavy round-tip ke sebelah kanan panah
+\xE2\x9E\xA0,heavy putus-putus segitiga berkepala ke sebelah kanan panah
+\xE2\x9E\xA1,hitam ke sebelah kanan arrow
+\xE2\x9E\xA2,tiga-d top-terang ke sebelah kanan arrowhead
+\xE2\x9E\xA3,tiga-d bottom-terang ke sebelah kanan arrowhead
+\xE2\x9E\xA4,hitam ke sebelah kanan arrowhead
+\xE2\x9E\xA5,berat hitam melengkung ke bawah dan ke sebelah kanan panah
+\xE2\x9E\xA8,heavy cekung berujung hitam ke sebelah kanan arrow
+\xE2\x9E\xAB,back-miring dibayangi putih ke sebelah kanan panah
+\xE2\x9E\xB0,curly loop
+\xE2\x9E\xB1,berlekuk upper kanan-dibayangi putih ke sebelah kanan panah
+\xE2\x9E\xB2,dilingkari berat putih ke sebelah kanan panah
+\xE2\x9E\xB3,putih-berbulu ke sebelah kanan panah
+\xE2\x9E\xB8,heavy berbulu hitam ke sebelah kanan panah
+\xE2\x9E\xBD,heavy ekor baji ke sebelah kanan panah
+,braille pola blank
+\xE2\xAC\x85,ke kiri hitam arrow
+\xE2\xAC\x86,ke atas hitam arrow
+\xE2\xAC\x87,ke bawah hitam arrow
+\xE2\xAC\x9B,hitam kotak besar
+\xE2\xAD\x90,putih medium star
+\xE2\xAD\x95,heavy lingkaran besar
+,geta mark
+,pos mark wajah
+,ribuan cyrillic sign
+,arab mulai dari rub al-hizb
+,tempat arab dari sajdah
+,yi radikal gguo
+,yi radikal shy
+,yi radikal vep
+,yi radikal jjy
+\xC2\xA6,rusak bar
+\xC2\xA9,tanda hak cipta
+\xC2\xAE,tanda terdaftar
+,tibet sign rdel nag rdel dkar
+,obyek penggantian karakter
+,penggantian karakter
